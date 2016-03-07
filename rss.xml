@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Jeremy Sarber]]></title>
         <description><![CDATA[Jeremy Sarber]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jeremysarber/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 04:17:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 04:17:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jeremysarber/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Prospect of Being Wrong and the Insecurities That Follow]]></title>
+            <description><![CDATA[<article><h1>The Prospect of Being Wrong and the Insecurities That Follow</h1><p>This is part 5 in an ongoing series. Continued from "From Pride To Exclusivity To Swift Condemnation" All things considered, I doubt pride is the predominant cause of our refusal to question or διαλέγομαι (reason and discuss) traditions. It seems the more likely culprit is insecurity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/075f5cbcb14e99ec39fbd56930f418c7921fbab6.jpg"></article>]]></description>
+            <link>http://jeremysarber.com/prospect-being-wrong-insecurities-that-follow/</link>
+            <guid isPermaLink="false">37c46efc-11bd-4484-9364-8e2208937615</guid>
+            <pubDate>Mon, 07 Mar 2016 04:16:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Suppressing Our Inner Theologians For Clarity]]></title>
             <description><![CDATA[<article><h1>Suppressing Our Inner Theologians For Clarity</h1><p>It is easy to get lost in the depths of theology, soteriology, eschatology, and perhaps a few other ologies. Sometimes we miss the beautiful simplicity of the message. The Bible is not exclusive to theologians. God did not inspire it to help us bulk up our official creeds.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d6c5ff0d3f700085c6386ff1061b2ab54593a457.jpg"></article>]]></description>
